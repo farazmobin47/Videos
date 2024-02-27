@@ -14,3 +14,5 @@ https://raw.githubusercontent.com/farazmobin47/Videos/main/CanvasImage.jpg
 
 https://raw.githubusercontent.com/farazmobin47/Videos/main/MocaverseStandingImage.jpg
 
+https://raw.githubusercontent.com/farazmobin47/Videos/main/AaronHaber.jpg
+
